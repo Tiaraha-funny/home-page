@@ -5,7 +5,7 @@ function Navigation() {
       <nav className="navigation">
         <ul className="list__menu_dropdown">
           <li className="contents_menu">
-            <a className="home__page" href="/home">
+            <a className="home__page" href="https://my-home-page-petah.netlify.app/">
               Home
             </a>
           </li>
@@ -15,7 +15,7 @@ function Navigation() {
             </a>
           </li>
           <li className="contents_menu">
-            <a className="portfolio" href="/photo">
+            <a className="portfolio" href="https://student-portfolio-petah.netlify.app">
               Portfolio
             </a>
           </li>
@@ -25,7 +25,7 @@ function Navigation() {
             </a>
           </li>
           <li className="contents_menu">
-            <a className="blog" href="/profile">
+            <a className="blog" href="https://real-blog-about-vavatenina.netlify.app">
               Blog
             </a>
           </li>

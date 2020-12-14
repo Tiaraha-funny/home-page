@@ -46415,7 +46415,7 @@ function Navigation() {
     className: "contents_menu"
   }, /*#__PURE__*/_react.default.createElement("a", {
     className: "home__page",
-    href: "/home"
+    href: "https://my-home-page-petah.netlify.app/"
   }, "Home")), /*#__PURE__*/_react.default.createElement("li", {
     className: "contents_menu"
   }, /*#__PURE__*/_react.default.createElement("a", {
@@ -46425,7 +46425,7 @@ function Navigation() {
     className: "contents_menu"
   }, /*#__PURE__*/_react.default.createElement("a", {
     className: "portfolio",
-    href: "/photo"
+    href: "https://student-portfolio-petah.netlify.app"
   }, "Portfolio")), /*#__PURE__*/_react.default.createElement("li", {
     className: "contents_menu"
   }, /*#__PURE__*/_react.default.createElement("a", {
@@ -46435,7 +46435,7 @@ function Navigation() {
     className: "contents_menu"
   }, /*#__PURE__*/_react.default.createElement("a", {
     className: "blog",
-    href: "/profile"
+    href: "https://real-blog-about-vavatenina.netlify.app"
   }, "Blog"))));
 }
 
@@ -46643,7 +46643,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "64685" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63270" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
